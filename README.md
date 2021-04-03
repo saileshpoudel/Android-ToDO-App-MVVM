@@ -28,7 +28,7 @@ In general, the steps necessary to build the APK file:
 
 ## Download code and additional components
 Use git clone in Android Studio as shown in screenshots below. Select "Check out project from Version Control" with "Git" as concrete version control system.,
-![Screenshot 1](./screenshot/Screenshot_01.png)
+![Screenshot 1](C:\Users\Acer\Downloads\Android-ToDO-App-MVVM-master\screenshot/Screenshot_01.png)
 
 ![Screenshot 2](./screenshot/Screenshot_02.png)
 
