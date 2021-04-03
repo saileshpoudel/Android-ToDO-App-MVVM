@@ -1,3 +1,4 @@
+<img width="470" alt="Screenshot_01" src="https://user-images.githubusercontent.com/47617497/113494040-80e79300-9504-11eb-833c-509971ea9407.png">
 # todo-app
 
 Android ToDo App Project MVVM Architecture
