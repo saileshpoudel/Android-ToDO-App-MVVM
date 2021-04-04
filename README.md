@@ -1,5 +1,3 @@
-# todo-app
-
 # Android-ToDo-App-MVVM
 Android ToDo App Project MVVM Architecture
 
