@@ -49,6 +49,21 @@ Please click "Don't remind me again for this project".
  Click build and Run. Wait...
  And Running ToDo list app
  
+ <img width="1608" alt="Screenshot_05" src="https://user-images.githubusercontent.com/47617497/113494584-3caac180-9509-11eb-82d0-7a2790754306.png">
+ 
+ App Screenshots
+ 
+ ![Screenshot_2_01](https://user-images.githubusercontent.com/47617497/113494598-77145e80-9509-11eb-9473-60dd39ff1a1b.png)
+![Screenshot_2_02](https://user-images.githubusercontent.com/47617497/113494605-7c71a900-9509-11eb-817f-be0ee1ca90f0.png)
+![Screenshot_2_03](https://user-images.githubusercontent.com/47617497/113494608-81cef380-9509-11eb-9ea6-a0c73ec9cbdd.png)
+![Screenshot_2_04](https://user-images.githubusercontent.com/47617497/113494610-85627a80-9509-11eb-95a7-9273be0707b2.png)
+![Screenshot_2_05](https://user-images.githubusercontent.com/47617497/113494612-8a272e80-9509-11eb-8ea6-016dcc0f8b3c.png)
+![Screenshot_2_06](https://user-images.githubusercontent.com/47617497/113494617-901d0f80-9509-11eb-883f-7b58fa7427af.png)
+![Screenshot_2_07](https://user-images.githubusercontent.com/47617497/113494623-98754a80-9509-11eb-91aa-7e4fddc28eb2.png)
+![Screenshot_2_08](https://user-images.githubusercontent.com/47617497/113494625-9f9c5880-9509-11eb-80c8-6fd31fc1738a.png)
+
+
+ 
 
 
 
