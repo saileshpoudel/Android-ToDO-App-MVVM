@@ -28,7 +28,9 @@ In general, the steps necessary to build the APK file:
 
 ## Download code and additional components
 Use git clone in Android Studio as shown in screenshots below. 
-Select "Check out project from Version Control" with "Git" as concrete version control system.,
+Select "Check out project from Version Control" with "Git" as concrete version control system.
+
+
 ![android version](https://user-images.githubusercontent.com/47617497/113496497-ec882b00-9519-11eb-9e06-116698f8c583.PNG)
 
 
