@@ -41,8 +41,7 @@ Select "Check out project from Version Control" with "Git" as concrete version c
 
 
 
-Finish the checkout from version control with opening the project by clicking "Yes".
-<img width="496" alt="Screenshot_03" src="https://user-images.githubusercontent.com/47617497/113494525-c0b07980-9508-11eb-99e7-5fd61e557164.png">
+
 
 Open Anroid Studio and project.
 <img width="1623" alt="Screenshot_04" src="https://user-images.githubusercontent.com/47617497/113494536-d9209400-9508-11eb-874c-ec8d8fbd9a73.png">
